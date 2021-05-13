@@ -1,0 +1,5 @@
+The maximum success probability is: 0.008000
+
+Component 1: 1
+Component 2: 3
+Component 3: 1
